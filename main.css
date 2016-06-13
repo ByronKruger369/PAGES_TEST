@@ -15,3 +15,7 @@ article section{
  header {
  	color: red;
  }
+
+ section ~ div{
+ 	display: block;
+ }
