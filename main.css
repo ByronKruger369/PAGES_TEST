@@ -14,7 +14,7 @@ article section{
  }
  header {
  	background-color: #A66060;
- 	border-style: none none solid none;
+ 	border-style: solid solid solid solid;
  	border-color: #460000;
  }
 
@@ -23,12 +23,12 @@ article section{
  }
 
  footer{
- 	border-style: solid none none none;
+ 	border-style: solid solid solid solid;
  	border-color: #460000;
  	background-color: #944040;
  }
 
- section > div{
+ section + div{
  	margin-left: 10%;
  }
 
