@@ -3,7 +3,7 @@ body{
 }
 
 article h3{
-	margin-left: 50%;
+	margin-left: 40%;
 }
 article section{
 	margin-left: 23%;
@@ -19,6 +19,19 @@ article section{
  p div{
  	display: block;
  }
+
  two{
  	display: block;
+ }
+
+ footer + section + h3{
+ 	margin-left: 10%;
+ }
+
+ footer + section + p{
+ 	margin-left: 10%;
+ }
+
+ footer + section + div{
+ 	margin-right: 10%;
  }
