@@ -36,3 +36,8 @@ article section{
  	margin-right: 30%;
  	float: left;
  }
+
+ footer{
+ 	border-top: solid #f2d9d9;
+ 	background-color: #f2d9e8;
+ }
