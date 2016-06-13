@@ -2,6 +2,9 @@ body{
 	background-color:#f2d9d9;
 }
 
-article <h3>{
+article h3{
 	margin-left: 55em;
 }
+article section{
+	max-width: 55px;
+} 
