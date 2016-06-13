@@ -20,10 +20,6 @@ article section{
  	display: block;
  }
 
- {
- 	display: block;
- }
-
  footer + section + h3{
  	margin-left: 20%;
  }
@@ -38,6 +34,7 @@ article section{
  }
 
  footer{
- 	border-top: solid #f2d9d9;
+ 	border-style: solid;
+    border-top: thick double #ff0000;
  	background-color: #f2d9e8;
  }
