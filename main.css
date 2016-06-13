@@ -28,10 +28,6 @@ article section{
  	background-color: #944040;
  }
 
- section + div{
- 	margin-left: 10%;
- }
-
  footer > section {
  	margin-left: 23%;
  }
