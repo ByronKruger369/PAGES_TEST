@@ -33,6 +33,6 @@ article section{
  }
 
  footer + section + div{
- 	margin-right: 10%;
+ 	margin-right: 30%;
  	float: left;
  }
