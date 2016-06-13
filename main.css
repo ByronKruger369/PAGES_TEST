@@ -25,10 +25,10 @@ article section{
  }
 
  footer + section + p{
- 	margin-left: 10%;
+ 	margin-left: 30%;
  }
 
- Assoc{
+ section div{
  	margin-right: 30%;
  	float: left;
  }
