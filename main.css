@@ -3,8 +3,9 @@ body{
 }
 
 article h3{
-	margin-left: 55em;
+	margin-left: 50%;
 }
 article section{
-	max-width: 55px;
+	margin-left: 25%;
+	max-width: 55%;
 } 
