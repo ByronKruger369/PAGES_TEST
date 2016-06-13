@@ -28,6 +28,10 @@ article section{
  	background-color: #944040;
  }
 
- footer > section {
+ section + h3{
+ 	margin-left: 23%;
+ }
+
+ section + p{
  	margin-left: 23%;
  }
