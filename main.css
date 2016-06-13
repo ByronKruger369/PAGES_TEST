@@ -1,5 +1,5 @@
 body{
-	background-color: #f2d9d9;
+	background-color: #EDDFDF;
 }
 
 article h3{
@@ -35,6 +35,6 @@ article section{
 
  footer{
  	border-style: solid none none none;
- 	border-color: red;
- 	background-color: #990000;
+ 	border-color: #460000;
+ 	background-color: #DBBFBF;
  }
