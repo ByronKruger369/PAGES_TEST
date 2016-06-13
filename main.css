@@ -35,6 +35,6 @@ article section{
 
  footer{
  	border-style: solid;
-    border-top: thick double #ff0000;
- 	background-color: #f2d9e8;
+    border-top: dashed #ff0000;
+ 	background-color: #990000;
  }
