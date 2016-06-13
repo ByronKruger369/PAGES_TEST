@@ -1,19 +1,19 @@
 body{
-	background-color:#f2d9d9;
+	background-color: #f2d9d9;
 }
 
 article h3{
 	margin-left: 50%;
 }
 article section{
-	margin-left: 20%;
+	margin-left: 23%;
 	max-width: 55%;
 } 
  header h1{
  	margin-left: 25%;
  }
  header {
- 	color: red;
+ 	background-color: #4d0000;
  }
 
  p div{
