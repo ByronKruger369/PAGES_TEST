@@ -34,9 +34,8 @@ article section{
  	border-style: solid none none none;
  	border-color: #460000;
  	background-color: #944040;
- 	margin-left: 30%;
  }
 
- section ~ div{
+ section > div{
  	margin-left: 30%;
  }
