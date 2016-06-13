@@ -34,4 +34,5 @@ article section{
 
  footer + section + div{
  	margin-right: 10%;
+ 	float: left;
  }
