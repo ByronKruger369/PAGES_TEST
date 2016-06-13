@@ -16,6 +16,6 @@ article section{
  	color: red;
  }
 
- section ~ div{
+ p ~ div{
  	display: block;
  }
