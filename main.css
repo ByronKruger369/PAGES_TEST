@@ -35,3 +35,7 @@ article section{
  section + p{
  	margin-left: 55%;
  }
+
+ footer section div{
+ 	float: left;
+ }
