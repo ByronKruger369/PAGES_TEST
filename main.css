@@ -10,7 +10,7 @@ article section{
 	max-width: 55%;
 } 
  header h1{
- 	margin-left: 33%;
+ 	margin-left: 55%;
  }
  header {
  	background-color: #A66060;
@@ -38,4 +38,5 @@ article section{
 
  footer section div{
  	float: left;
+ 	border-style: 
  }
