@@ -18,13 +18,10 @@ article section{
  	border-color: #460000;
  }
 
- p div{
- 	display: block;
- }
-
  footer{
  	border: 5px solid hotpink;
  	background-color: #944040;
+ 	max-width: ;
  	/*height: 500px;
  	width: 500px;*/
  }
@@ -37,7 +34,7 @@ article section{
  	margin-left: 55%;
  }
 
- /*footer + section + section{
+ footer + section + section{
  	display: inline;
  	border: 5px dotted hotpink;
- }/*
+ }
