@@ -22,6 +22,7 @@ article section{
  	border: 5px solid hotpink;
  	background-color: #944040;
  	max-width: ;
+ 	overflow: auto;
  	/*height: 500px;
  	width: 500px;*/
  }
@@ -36,6 +37,5 @@ article section{
 
  #Associates{
  	float: left; 
- 	overflow: auto;
  	border: 5px dotted hotpink;
  }
