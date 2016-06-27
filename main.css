@@ -34,7 +34,7 @@ article section{
  	margin-left: 55%;
  }
 
- footer + section + section{
+ #Associates{
  	display: inline;
  	border: 5px dotted hotpink;
  }
