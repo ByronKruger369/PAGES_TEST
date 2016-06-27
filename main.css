@@ -37,6 +37,6 @@ article section{
  }
 
  footer + section + section{
- 	float: left;
+ 	display: inline;
  	border-color: pink;
  }
