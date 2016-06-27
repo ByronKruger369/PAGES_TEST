@@ -38,5 +38,5 @@ article section{
 
  footer + section + section{
  	display: inline;
- 	border-color: pink;
+ 	border: 5px dotted hotpink;
  }
