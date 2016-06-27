@@ -35,6 +35,6 @@ article section{
  }
 
  #Associates{
- 	display: inline;
+ 	float: left; 
  	border: 5px dotted hotpink;
  }
