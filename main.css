@@ -36,7 +36,7 @@ article section{
  	margin-left: 55%;
  }
 
- footer + section + section{
+ /*footer + section + section{
  	display: inline;
  	border: 5px dotted hotpink;
- }
+ }/*
