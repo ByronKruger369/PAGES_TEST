@@ -23,7 +23,7 @@ article section{
  }
 
  footer{
- 	border-style: solid solid solid solid;
+ 	border: 5px solid hotpink;
  	border-color: #460000;
  	background-color: #944040;
  }
