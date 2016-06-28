@@ -36,6 +36,7 @@ article section{
  #Associates{
  	float: left; 
  	border: 5px dotted hotpink;
+ 	margin: 20px;
  }
 
  ul#menu{
@@ -56,5 +57,4 @@ article section{
 
  header nav ul#menu li{
  	display: inline;
- 	width : 20%;
  }
