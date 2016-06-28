@@ -38,6 +38,10 @@ article section{
  	border: 5px dotted hotpink;
  }
 
+ ul#menu{
+ 	margin:auto;
+ }
+
  header nav ul#menu li a{
  	background-color:  grey;
  	color: white;
