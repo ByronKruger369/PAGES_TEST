@@ -23,8 +23,6 @@ article section{
  	background-color: #944040;
  	max-width: ;
  	overflow: auto;
- 	/*height: 500px;
- 	width: 500px;*/
  }
 
  section + h3{
@@ -38,4 +36,17 @@ article section{
  #Associates{
  	float: left; 
  	border: 5px dotted hotpink;
+ }
+
+ ul#menu li a{
+ 	background-color:  grey;
+ 	color: white;
+ }
+
+ ul#menu li a:hover{
+ 	background-color: black;
+ }
+
+ ul#menu li{
+ 	display: inline;
  }
