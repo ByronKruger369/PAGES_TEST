@@ -40,7 +40,7 @@ article section{
 
  ul#menu{
  	margin:auto;
- 	width: 70%;
+ 	/*width: 70%;*/
  }
 
  header nav ul#menu li a{
@@ -56,4 +56,5 @@ article section{
 
  header nav ul#menu li{
  	display: inline;
+ 	width : 20%;
  }
