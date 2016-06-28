@@ -38,15 +38,15 @@ article section{
  	border: 5px dotted hotpink;
  }
 
- ul#menu li a{
+ header nav ul#menu li a{
  	background-color:  grey;
  	color: white;
  }
 
- ul#menu li a:hover{
+ header nav ul#menu li a:hover{
  	background-color: black;
  }
 
- ul#menu li{
+ header nav ul#menu li{
  	display: inline;
  }
