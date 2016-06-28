@@ -16,6 +16,7 @@ article section{
  	background-color: #A66060;
  	border-style: solid solid solid solid;
  	border-color: #460000;
+ 	text-align: center;
  }
 
  footer{
@@ -47,7 +48,7 @@ article section{
  	background-color:  grey;
  	color: white;
  	text-decoration: none;
- 	padding: 5px 10px;
+ 	padding: 10px 20px;
  }
 
  header nav ul#menu li a:hover{
