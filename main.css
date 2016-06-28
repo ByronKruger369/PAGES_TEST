@@ -37,6 +37,7 @@ article section{
  	float: left; 
  	border: 5px dotted hotpink;
  	margin: 20px;
+ 	padding: 20px;
  }
 
  ul#menu{
