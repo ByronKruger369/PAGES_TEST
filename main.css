@@ -40,12 +40,12 @@ article section{
  	padding: 0px 0px 0px 0px;
  }
 
- ul#menu{
+ #menu{
  	margin:auto;
  	/*width: 70%;*/
  }
 
- header /*nav ul#menu li*/a{
+ header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
  	background-color:  grey;
  	color: white;
  	text-decoration: none;
