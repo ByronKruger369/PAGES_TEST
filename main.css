@@ -45,12 +45,12 @@ article section{
  	/*width: 70%;*/
  }
 
- header nav ul#menu li a{
+ header /*nav ul#menu li*/a{
  	background-color:  grey;
  	color: white;
  	text-decoration: none;
  	padding: 10px 20px;
- 	margin: 10px
+ 	margin: 8px
  }
 
  header nav ul#menu li a:hover{
