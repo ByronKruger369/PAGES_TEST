@@ -8,6 +8,7 @@ article h3{
 article section{
 	margin-left: 23%;
 	max-width: 55%;
+	text-align: justify;
 } 
 
  header {
