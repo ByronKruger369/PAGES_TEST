@@ -2,53 +2,48 @@ body{
 	background-color: #DBBFBF;
 }
 
- #all{
-	width: 600px; /*testing for iPhone. 600*/
-	height: 800px;/*testing for iPhone. 800*/
-	position: absolute;
-	top: 0px;
-	left: 0px;
-	border:1px dashed black;
- }
+article > section{
+	margin-left: 23%;
+	max-width: 55%;
+	text-align: justify;
+} 
+
+a{
+	text-decoration: none;
+}
 
  header {
  	background-color: #A66060;
  	border-style: solid solid solid solid;
  	border-color: #460000;
  	text-align: center;
- 	
- 	position: absolute;
- 	top: 0px;
- 	left: 0px;
- 	width: 600px;
- 	height: 100px;
-
+ 	padding: 20px;
  }
-
-#s1{
-	position: absolute;
-	top: 100px;
-	left:0px;
-	width: 280px;
-	height: 300px;
-}
-
-#s2{
-	position: absolute;
-	top: 100px;
-	left:290px;
-	width: 280px;
-	height:300px;
-}
 
  footer{
  	border: 5px solid hotpink;
  	background-color: #944040;
- 	width: 600px;
- 	height: 100px;
- 	position: absolute;
- 	top: 700px;
- 	left: 0px;
+ 	max-width: ;
+ 	overflow: auto;
+ }
+
+ section + h3{
+ 	margin-left: 33%;
+ }
+
+ section + p{
+ 	margin-left: 55%;
+ }
+
+ #Associates{
+ 	float: left; 
+ 	margin: 0px;
+ 	padding: 0px 20px;
+ }
+
+ #menu{
+ 	margin:auto;
+ 	/*width: 70%;*/
  }
 
  header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
@@ -65,4 +60,4 @@ body{
 
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
  	display: inline;
- }/*Here I am*/
+ }/*Here I am
