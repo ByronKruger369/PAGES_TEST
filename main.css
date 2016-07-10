@@ -2,56 +2,53 @@ body{
 	background-color: #DBBFBF;
 }
 
-article > section{
-	margin-left: 23%;
-	max-width: 55%;
-	text-align: justify;
-} 
-
-a{
-	text-decoration: none;
-}
+ #all{
+	width: 90%; /*testing for iPhone. 600*/
+	height: 90%;/*testing for iPhone. 800*/
+	position: absolute;
+	top: 5%;
+	left: 5%;
+	border:1px dashed black;
+ }
 
  header {
  	background-color: #A66060;
  	border-style: solid solid solid solid;
  	border-color: #460000;
  	text-align: center;
- 	padding: 20px;
+ 	
+ 	position: absolute;
+ 	top: 0%;
+ 	left: 0%;
+ 	width: 100%;
+ 	height: 10%;
+
  }
+
+#s1{
+	position: absolute;
+	top: 10%;
+	left: 0%;
+	width: 50%;
+	height: 80%;
+}
+
+#s2{
+	position: absolute;
+	top: 10%;
+	left:55%;
+	width: 45%;
+	height:80%;
+}
 
  footer{
  	border: 5px solid hotpink;
  	background-color: #944040;
- 	max-width: ;
- 	overflow: auto;
- }
-
- section + h3{
- 	margin-left: 33%;
- }
-
- section + p{
- 	margin-left: 55%;
- }
-
- #Associates{
- 	float: left; 
- 	margin: 0px;
- 	padding: 0px 20px;
- }
-
- #menu{
- 	margin:auto;
- 	/*width: 70%;*/
- }
-
- header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
- 	background-color:  grey;
- 	color: white;
- 	text-decoration: none;
- 	padding: 10px 20px;
- 	margin: 10px;
+ 	width: 100%;
+ 	height: 10%;
+ 	position: absolute;
+ 	top: 90%;
+ 	left: 0%;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
@@ -60,4 +57,4 @@ a{
 
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
  	display: inline;
- }/*Here I am
+ }/*Here I am*/
