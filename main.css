@@ -2,23 +2,14 @@ body{
 	background-color: #DBBFBF;
 }
 
-#all{
-	width: 800px;
-	
-	margin: auto;
-	border:5px dotted white;
-}
-
 article > section{
-	
-	float: left;
+	margin-left: 23%;
+	max-width: 55%;
 	text-align: justify;
-	border:1px solid red;
 } 
-article > section > section{
-	float: left;
-	color:yellow;
-	border:1px solid green;
+
+a{
+	text-decoration: none;
 }
 
  header {
@@ -27,9 +18,6 @@ article > section > section{
  	border-color: #460000;
  	text-align: center;
  	padding: 20px;
- 	float: left;
- 	clear: both;
- 	width: 752px
  }
 
  footer{
@@ -47,15 +35,10 @@ article > section > section{
  	margin-left: 55%;
  }
 
-address{
-	clear: both;
-}
-
  #Associates{
  	float: left; 
  	margin: 0px;
  	padding: 0px 20px;
- 	border: 1px solid white;
  }
 
  #menu{
@@ -69,8 +52,6 @@ address{
  	text-decoration: none;
  	padding: 10px 20px;
  	margin: 10px;
- 	float: left;
- 	clear: both;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
@@ -79,4 +60,4 @@ address{
 
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
  	display: inline;
- }
+ }/*Here I am!
