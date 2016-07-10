@@ -2,10 +2,7 @@ body{
 	background-color: #DBBFBF;
 }
 
-article h3{
-	margin-left: 40%;
-}
-article section{
+article > section{
 	margin-left: 23%;
 	max-width: 55%;
 	text-align: justify;
