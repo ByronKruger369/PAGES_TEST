@@ -8,6 +8,10 @@ article > section{
 	text-align: justify;
 } 
 
+#all{
+	width: 100vw;
+}
+
 a{
 	text-decoration: none;
 }
