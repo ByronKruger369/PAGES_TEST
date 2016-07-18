@@ -1,4 +1,4 @@
-@media handheld{
+@media (min-width: 1000px)){
 	body{
 		background-color: pink;
 	}
