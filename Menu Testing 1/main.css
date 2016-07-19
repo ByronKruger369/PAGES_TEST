@@ -6,7 +6,7 @@
  	padding: 20px;
  }
   #menu{
- 																																	margin:auto;
+ 																																margin:auto;
  	margin: 0;
  	padding: 0;
  	overflow: hidden;
@@ -28,14 +28,13 @@
  }/*Here I am
  */
  header{
- 	background-color: god;
+ 	background-color: gold;
  	padding:5px;
- 	/*background-image: url("somb.jpg");*/
+ 	background-image: url("somb.jpg");
  	text-align: center;
  }
  header a{
  	display: block;
- 	width:200px;
  	color: linen;
  	background-color: maroon;
  	text-decoration: none;
@@ -45,18 +44,25 @@
  header li{
  	list-style-type: none;
  	margin: 2px;
- 	float: lft;
+ 	float: left;
+ 	width: 24.75%;
  }
  header a:hover{
  	background-color: black;
  }
  #menu{
- 	margin-left: 33%;
- 	width:1820px;
- 	height: 200px;
  	padding: 0;
  	margin: 0;
- 	overflow: auto;
- 	margin-left: 
- 	background-color:red;
- }
+ 	background-color: ;
+ 	width: 100%;
+}
+.container:after, .container:before{
+	content: "";
+	display: table;
+}
+.container:after{
+	clear:both;
+}
+.container:after{
+	zoom:1;
+}

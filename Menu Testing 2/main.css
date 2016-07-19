@@ -1,0 +1,29 @@
+a{
+	text-decoration: none;
+}
+
+ header {
+ 	background-image: url("somb.jpg");
+ 	text-align: center;
+ 	padding: 20px;
+ }
+ #menu{
+ 	margin: 0;
+ 	padding: 0;
+ 	overflow: hidden;
+ 	background-color: red;
+ 	width: 20%;
+ }
+header a{ 
+ 	background-color:  grey;
+ 	color: white;
+ 	text-decoration: none;
+ 	margin: 10px;
+ 	width: 150px;
+ }
+ header a:hover{ 
+ 	background-color: black;
+ }
+ header li{ 
+ 	display: inline;
+ }
