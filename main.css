@@ -2,6 +2,12 @@ body{
 	background-color: #DBBFBF;
 }
 
+@media screen and (min-width: 480px){
+	body{
+		background-color: hotpink;u
+	}
+}
+
 article > section{
 	margin-left: 23%;
 	max-width: 55%;
