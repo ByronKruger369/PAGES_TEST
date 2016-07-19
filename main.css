@@ -52,11 +52,12 @@ a{
  }
 
  #menu{
- 	margin:auto;
+ 	/*margin:auto;
  	/*width: 70%;*/
  	margin: 0;
  	padding: 0;
  	overflow: hidden;
+ 	background-color: red;
  }
 
  header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
@@ -65,6 +66,7 @@ a{
  	text-decoration: none;
  	/*padding: 10px 20px;*/
  	margin: 10px;
+ 	display: block;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
