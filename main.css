@@ -60,9 +60,8 @@ a{
  header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
  	background-color:  grey;
  	color: white;
- 	text-decoration: none;
- 	padding: 20px 20px;*/
- 	margin: 20px 10px;
+ 	padding: ;
+ 	margin: 10px;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
