@@ -66,7 +66,6 @@ a{
  	text-decoration: none;
  	/*padding: 10px 20px;*/
  	margin: 10px;
- 	display: block;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
