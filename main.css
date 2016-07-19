@@ -2,9 +2,9 @@ body{
 	background-color: #DBBFBF;
 }
 
-@media screen and (min-width: 480px){
+@media handheld{
 	body{
-		background-color: hotpink;u
+		background-color: hotpink;
 	}
 }
 
