@@ -1,0 +1,57 @@
+/*header {
+ 	background-color: #A66060;
+ 	border-style: solid solid solid solid;
+ 	border-color: #460000;
+ 	text-align: center;
+ 	padding: 20px;
+ }
+  #menu{
+ 																																	margin:auto;
+ 	margin: 0;
+ 	padding: 0;
+ 	overflow: hidden;
+ }
+ header /*nav ul#menu li*//*a{ /*thanks to Descendant Seelctor*/
+ /*	background-color:  grey;
+ 	color: white;
+ 	text-decoration: none;
+ 	padding: 10px 20px;
+ 	margin: 10px;
+ }
+
+ header /*nav ul#menu li*//*a:hover{ /*thanks to Descendant Seelctor*/
+ /*	background-color: black;
+ }
+
+ header /*nav ul#menu*//*li{ /*thanks to Descendant Seelctor*/
+/* 	display: inline;
+ }/*Here I am
+ */
+ header{
+ 	background-color: gold;
+ 	padding:5px;
+ 	background-image: url("somb.jpg");
+ 	text-align: center;
+ }
+ header a{
+ 	display: block;
+ 	width:200px;
+ 	color: linen;
+ 	background-color: maroon;
+ 	text-decoration: none;
+ 	text-align: center;
+ 	padding: 10px;
+ }
+ header li{
+ 	list-style-type: none;
+ 	margin: 2px;
+ 	float: left;
+ }
+ header a:hover{
+ 	background-color: black;
+ }
+ #menu{
+ 	padding: 0;
+ 	margin: 0;
+ 	overflow: hidden;
+ }
