@@ -55,7 +55,6 @@ a{
  	/*width: 70%;*/
  	margin: 0;
  	padding: 0;
- 	overflow: hidden;
  }
 
  header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
@@ -72,4 +71,15 @@ a{
 
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
  	display: inline;
- }/*Here I am
+ }/*Here I am*/
+ .clearfix:after, 
+ .clearfix:before{
+ 	content: "";
+ 	display: table;
+ }
+ .clearfix:after{
+ 	clear: both;
+ }
+ .clearfix{
+ 	zoom:1;
+ }
