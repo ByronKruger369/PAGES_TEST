@@ -28,9 +28,9 @@
  }/*Here I am
  */
  header{
- 	background-color: gold;
+ 	background-color: god;
  	padding:5px;
- 	background-image: url("somb.jpg");
+ 	/*background-image: url("somb.jpg");*/
  	text-align: center;
  }
  header a{
@@ -45,13 +45,18 @@
  header li{
  	list-style-type: none;
  	margin: 2px;
- 	float: left;
+ 	float: lft;
  }
  header a:hover{
  	background-color: black;
  }
  #menu{
+ 	margin-left: 33%;
+ 	width:1820px;
+ 	height: 200px;
  	padding: 0;
  	margin: 0;
- 	overflow: hidden;
+ 	overflow: auto;
+ 	margin-left: 
+ 	background-color:red;
  }
