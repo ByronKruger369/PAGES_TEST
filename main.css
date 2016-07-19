@@ -61,7 +61,8 @@ a{
  header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
  	background-color:  grey;
  	color: white;
- 	/*padding: 10px 20px;*/
+ 	text-decoration: none;
+ 	padding: 10px 20px;*/
  	margin: 10px;
  }
 
@@ -71,5 +72,4 @@ a{
 
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
  	display: inline;
- 	padding: 20px;
  }/*Here I am
