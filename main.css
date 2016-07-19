@@ -62,8 +62,8 @@ a{
  	background-color:  grey;
  	color: white;
  	text-decoration: none;
- 	padding: 10px 20px;*/
- 	margin: 10px;
+ 	padding: 20px 20px;*/
+ 	margin: 20px 10px;
  }
 
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
