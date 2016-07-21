@@ -67,7 +67,10 @@ article section{
  	}
 }
 
-@media screen and (max-width: 500px){/*Smartphone*/
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) { /*Smartphone*/
 	article > section{
 		width: 100%;
 		text-align: justify;
