@@ -1,4 +1,4 @@
-@media screen and (min-width:501px){/*Desktop*/
+@media only screen and (min-width:501px){/*Desktop*/
 	p{
 		max-width:600px;
 		margin:0px auto;
@@ -6,7 +6,7 @@
 		text-align: justify;
 	}
 }
-@media screen and (max-width:500px){/*Smartphone*/
+@media only screen and (max-width:500px){/*Smartphone*/
 	p{
 		width:100%;
 		background-color: hotpink;
