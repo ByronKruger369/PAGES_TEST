@@ -2,7 +2,7 @@
 @media only screen and (min-width:501px){/*Desktop*/
 	/*Narrow content .......................................................*/
 	p{
-		max-width:200px;
+		max-width:600px;
 		margin:0px auto;
 		text-align: justify;
 	}
@@ -22,7 +22,8 @@
 	}
 	ul a{
 		display: inline-block;
-		padding:10px;
+		background-color: #d27979;
+		width:22%;
 	}
 	/*Horizontal Menu.......................................................*/
 }
@@ -42,9 +43,12 @@
 	ul{
 		margin: 0;
 		padding: 0;
+		text-align: center;
 	}
 	ul a{
 		display: block;
+		background-color: #d27979;
+		padding: 8px;
 	}
 	/*vertical Menu.........................................................*/
 }
