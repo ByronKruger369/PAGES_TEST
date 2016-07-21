@@ -1,0 +1,1 @@
+need a root file (html file) named "index.html"
