@@ -24,6 +24,7 @@
 		display: inline-block;
 		background-color: #d27979;
 		width:22%;
+		min-width: 170px;
 	}
 	/*Horizontal Menu.......................................................*/
 }
