@@ -62,10 +62,11 @@ p{
 	background-color: #993333;
 }
 body{
-	background-image: url("num1.jpg");
+	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-1.bmp");
+	text-align: center;
 }
 header{
-	background-image: url("num2.png");
+	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.bmp");
 }
 .clearfix:before,
 .clearfix:after{
@@ -79,6 +80,6 @@ header{
 	zoom:1;	
 }
 footer{
-	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-1.bmp");
+	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.bmp");
 }
 /*What is set universally...................................................*/
