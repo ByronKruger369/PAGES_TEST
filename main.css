@@ -1,10 +1,16 @@
+/*MQ1.......................................................................*/
 @media only screen and (min-width:501px){/*Desktop*/
+	/*Narrow content .......................................................*/
 	p{
-		max-width:600px;
+		max-width:200px;
 		margin:0px auto;
-		background-color: blue;
 		text-align: justify;
 	}
+	/*Narrow content .......................................................*/
+	a{
+		text-decoration: none;
+	}
+	/*Horizontal Menu.......................................................*/
 	ul{
 		margin: 0;
 		padding: 0;
@@ -18,13 +24,21 @@
 		display: inline-block;
 		padding:10px;
 	}
+	/*Horizontal Menu.......................................................*/
 }
+/*MQ1.......................................................................*/
+/*MQ2.......................................................................*/
 @media only screen and (max-width:500px){/*Smartphone*/
+	/*100% wide content ....................................................*/
 	p{
 		width:100%;
-		background-color: hotpink;
 		text-align: justify;
 	}
+	/*100% wide content ....................................................*/
+	a{
+		text-decoration: none;
+	}
+	/*Vertical Menu.........................................................*/
 	ul{
 		margin: 0;
 		padding: 0;
@@ -32,4 +46,9 @@
 	ul a{
 		display: block;
 	}
+	/*vertical Menu.........................................................*/
+}
+/*MQ2.......................................................................*/
+p{
+	background-color: 
 }
