@@ -63,4 +63,11 @@ p{
 .active{
 	background-color: #993333;
 }
+body{
+	background-image: url("num1.jpg");
+}
+header{
+	background-image: url("num2.png");
+}
+
 /*What is set universally...................................................*/
