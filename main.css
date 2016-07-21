@@ -6,11 +6,10 @@
 		text-align: justify;
 	}
 }
-@media only screen 
-	and (max-width:500px){/*Smartphone*/
+@media screen and (max-width:500px){/*Smartphone*/
 	p{
 		width:100%;
-		background-color: red;
+		background-color: hotpink;
 		text-align: justify;
 	}
 }
