@@ -2,6 +2,9 @@
 body{
 	background-color:maroon;
 	text-align: justify;
+	background: url(Polygraph-1.jpg) 600px 10px no-repeat,  
+   				url(Polygraph-2.jpg) 10px 10px no-repeat,   
+   				url(Polygraph-3.bmp);
 }
 header{
 	background-color: navy;
