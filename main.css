@@ -81,4 +81,7 @@ header{
 .clearfix{
 	zoom:1;	
 }
+footer{
+	background-image: url("num3.png");
+}
 /*What is set universally...................................................*/
