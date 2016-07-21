@@ -69,5 +69,15 @@ body{
 header{
 	background-image: url("num2.png");
 }
-
+.clearfix:before,
+.clearfix:after{
+	content: "";
+	display: table;
+}
+.clearfix:after{
+	clear:both;
+}
+.clearfix{
+	zoom:1;	
+}
 /*What is set universally...................................................*/
