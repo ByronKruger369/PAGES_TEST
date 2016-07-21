@@ -1,74 +1,87 @@
-body{
-	background-color: #DBBFBF;
+/*First*/
+/*body{
+	background-color:maroon;
+	text-align: justify;
 }
-
+header{
+	background-color: navy;
+	color: linen;
+}
+article section{
+	color: linen;
+}*/
+/*#menu{/*Vertical menu acroos whole screen for mobile devices.*/
+/*	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	text-align: center;
+}
+#menu a{
+	text-decoration: none;
+	display: block;
+	padding: 8px;
+}
+#menu li{
+	background-color: linen;
+	border: 2px solid red;
+}*/
+body{
+	background-color: gold;/* #DBBFBF;*/
+}
 article > section{
-	margin-left: auto;
-	margin-right: auto;
-	max-width: 600px;
+	width: 100%;
 	text-align: justify;
 } 
-
 a{
 	text-decoration: none;
 }
-
- header {
+/*maybe needs alter...*/ 
+header {
  	background-color: #A66060;
  	border-style: solid solid solid solid;
  	border-color: #460000;
  	text-align: center;
  	padding: 20px;
  }
-
  footer{
  	border: 5px solid hotpink;
  	background-color: #944040;
  	overflow: auto;
  }
-
+ /*
  section + h3{
  	margin-left: 33%;
  }
 
  section + p{
  	margin-left: 55%;
- }
-
+ }*/
  #Associates{
  	float: left; 
  	margin: 0px;
  	padding: 0px 20px;
  }
-
  #menu{
  	margin: 0;
  	padding: 0;
  	list-style-type: none;
  	text-align: center;
- 	margin-left:auto;
- 	margin-right: auto;
- 	background-color: ;
- 	width: ;
  }
 
- header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
- 	display: inline-block;
+header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
+ 	display: block;
  	background-color: hotpink;
- 	margin-top: 0px;
- 	height: auto;
+ 	margin-top: 4px;
+ 	/*height: auto;
  	width: 23%;
  	min-width:170px;
  	/*padding: 5px 4px;*/
- 	margin: 2px 0px;
+ 	/*margin: 2px 0px;*/
  }
-
  header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
  	background-color: black;
  }
-
  header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
- 	display: inline;
 
  }/*Here I am*/
  .clearfix:after, 
@@ -81,4 +94,3 @@ a{
  }
  .clearfix{
  	zoom:1;
- 
