@@ -1,10 +1,10 @@
 /*MQ1.......................................................................*/
 @media only screen and (min-width:501px){/*Desktop*/
 	/*Narrow content .......................................................*/
-	p{
-		max-width:600px;
-		margin:0px auto;
-		text-align: justify;
+	article > section{
+		max-width: 600px;
+		margin-left: auto;
+		margin-right: auto;
 	}
 	/*Narrow content .......................................................*/
 	a{
@@ -34,10 +34,7 @@
 /*MQ2.......................................................................*/
 @media only screen and (max-width:500px){/*Smartphone*/
 	/*100% wide content ....................................................*/
-	p{
-		width:100%;
-		text-align: justify;
-	}
+	
 	/*100% wide content ....................................................*/
 	a{
 		text-decoration: none;
