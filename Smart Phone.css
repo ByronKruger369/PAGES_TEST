@@ -26,7 +26,7 @@ article section{
 	border: 2px solid red;
 }*/
 
-@media only screen and (min-width: 501px){/*Desktop*/
+@media screen and (min-width: 501px){/*Desktop*/
 	article > section{
 		margin-left: auto;
 		margin-right: auto;
@@ -67,7 +67,7 @@ article section{
  	}
 }
 
-@media only screen and (max-width: 500px){/*Smartphone*/
+@media screen and (max-width: 500px){/*Smartphone*/
 	article > section{
 		width: 100%;
 		text-align: justify;
