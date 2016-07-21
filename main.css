@@ -56,8 +56,9 @@
 }
 /*MQ2.......................................................................*/
 /*What is set universally...................................................*/
-p{
-	background-color: 
+article{
+	background-color: white;
+	opacity: 0.6;	
 }
 .active{
 	background-color: #993333;
@@ -82,6 +83,9 @@ header{
 }
 .clearfix{
 	zoom:1;	
+}
+ul{
+	color:linen;
 }
 footer{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
