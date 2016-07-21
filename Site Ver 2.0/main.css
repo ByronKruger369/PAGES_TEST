@@ -1,0 +1,116 @@
+body{
+	background-color: #DBBFBF;
+}
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+  	body{
+		background-color: hotpink;
+	}
+}
+
+article > section{
+	margin-left: 23%;
+	max-width: 55%;
+	text-align: justify;
+} 
+
+a{
+	text-decoration: none;
+}
+
+ header {
+ 	background-image: url("somb.jpg");
+ 	height:300px;
+ 	border-style: solid solid solid solid;
+ 	border-color: #460000;
+ 	text-align: center;
+ 	padding: 20px;
+ }
+
+ footer{
+ 	border: 5px solid hotpink;
+ 	background-color: #944040;
+ 	max-width: ;
+ 	overflow: auto;
+ }
+
+ section + h3{
+ 	margin-left: 33%;
+ }
+
+ section + p{
+ 	margin-left: 55%;
+ }
+
+ #Associates{
+ 	float: left; 
+ 	margin: 0px;
+ 	padding: 0px 20px;
+ }
+
+ #menu{
+ 	/*width: 70%;*/
+ 	/*margin: 0;
+ 	padding: 0;
+ 	margin:0 auto;*/
+
+
+ 	margin:0;
+ 	padding: 0;
+ 	text-align: center;
+
+
+
+ }
+
+ header /*nav ul#menu li*/a{ /*thanks to Descendant Seelctor*/
+ 	/*background-color:  grey;
+ 	display: inline-block;
+ 	color: white;
+ 	padding: 8px;
+ 	margin: 10px;*/
+
+
+	display: inline-block;
+ 	padding: 10px;
+ 	background-color: maroon;
+ 	color: linen;
+
+
+
+ 	border:1px solid maroon;
+ 	border-width: 2px;
+ 	border-radius: 3px;
+
+
+
+ }
+
+ header /*nav ul#menu li*/a:hover{ /*thanks to Descendant Seelctor*/
+ 	background-color: black;
+ }
+
+ header /*nav ul#menu*/li{ /*thanks to Descendant Seelctor*/
+ 	/*float: left;
+ 	list-style-type: none;*/
+
+ 	display: inline;
+
+
+
+
+ }
+ .clearfix:after, 
+ .clearfix:before{
+ 	content: "";
+ 	display: table;
+ }
+ .clearfix:after{
+ 	clear: both;
+ }
+ .clearfix{
+ 	zoom:1;
+ }
