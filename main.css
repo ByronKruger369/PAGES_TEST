@@ -23,6 +23,7 @@
 	ul a{
 		display: inline-block;
 		background-color: #d27979;
+		padding:5px 0px;
 		width:22%;
 		min-width: 170px;
 		margin-top: 2px;
