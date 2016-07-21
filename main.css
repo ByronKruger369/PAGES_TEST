@@ -44,6 +44,7 @@
 		margin: 0;
 		padding: 0;
 		text-align: center;
+		list-style-type: none;
 	}
 	ul a{
 		display: block;
@@ -69,7 +70,7 @@ body{
 }
 header{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
-	padding:20px ;
+	padding:30px ;
 }
 .clearfix:before,
 .clearfix:after{
@@ -84,5 +85,6 @@ header{
 }
 footer{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
+	padding:30px;
 }
 /*What is set universally...................................................*/
