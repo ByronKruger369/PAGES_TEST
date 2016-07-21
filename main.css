@@ -69,6 +69,7 @@ body{
 }
 header{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
+	padding:20px ;
 }
 .clearfix:before,
 .clearfix:after{
