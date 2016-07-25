@@ -99,4 +99,7 @@ address > p, address > h2{/*hi in header and content between address tags*/
 	float: left;
 	clear: left;
 }
+ul{
+	color: linen;
+}
 /*What is set universally...................................................*/
