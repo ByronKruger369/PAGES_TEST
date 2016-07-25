@@ -93,4 +93,14 @@ header a{
 article p{
 	text-align: justify;
 }
+header h1{
+	float: left;
+	margin-left: 32%;
+	background-color: white;
+}
+footer address{
+	float: left;
+	margin-left: 32%;
+	background-color: white;
+}
 /*What is set universally...................................................*/
