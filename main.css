@@ -30,9 +30,11 @@
 	}
 	footer address{
 		float: left;
+		margin-left: 0%;
 	}
-	footer > section > section{
+	footer > section{
 		float: left;
+		background-color: white;
 	}
 	/*Horizontal Menu.......................................................*/
 }
@@ -106,7 +108,7 @@ header h1{
 	display: inline-block;
 	/*margin-left: 33.3%;*/
 }
-footer section{
+footer address{
 	background-color: white;
 }
 /*What is set universally...................................................*/
