@@ -28,15 +28,13 @@
 		min-width: 170px;
 		margin-top: 2px;
 	}
-	footer address{
-		float: left;
-		margin-left: 0%;
-	}
-	footer > section{
-		float: left;
-		background-color: white;
-	}
 	/*Horizontal Menu.......................................................*/
+	#footContain address{
+		float: left;
+	}
+	#footContain > section{
+		float: left;
+	}
 }
 /*MQ1.......................................................................*/
 /*MQ2.......................................................................*/
@@ -108,7 +106,7 @@ header h1{
 	display: inline-block;
 	/*margin-left: 33.3%;*/
 }
-footer address{
+#footContain{
 	background-color: white;
 }
 /*What is set universally...................................................*/
