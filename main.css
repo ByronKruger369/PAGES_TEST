@@ -28,6 +28,9 @@
 		min-width: 170px;
 		margin-top: 2px;
 	}
+	footer address{
+		float: left;
+	}
 	footer > section{
 		float: left;
 	}
