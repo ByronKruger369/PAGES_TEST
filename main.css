@@ -28,7 +28,7 @@
 		min-width: 170px;
 		margin-top: 2px;
 	}
-	footer section{
+	footer > section{
 		float: left;
 	}
 	/*Horizontal Menu.......................................................*/
