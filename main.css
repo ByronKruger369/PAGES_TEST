@@ -31,7 +31,6 @@
 	/*Horizontal Menu.......................................................*/
 	#footContain{
 		background-color: white;
-		border: 2px solid red;
 	}
 	#footContain address, #footContain section{
 		float: left;
