@@ -29,12 +29,7 @@
 		margin-top: 2px;
 	}
 	/*Horizontal Menu.......................................................*/
-	#footContain address{
-		float: left;
-	}
-	#footContain > section{
-		float: left;
-	}
+
 }
 /*MQ1.......................................................................*/
 /*MQ2.......................................................................*/
@@ -59,6 +54,9 @@
 		margin:2px;
 	}
 	/*vertical Menu.........................................................*/
+	#footContain section, #footContain address{
+		text-align: center;
+	}
 }
 /*MQ2.......................................................................*/
 /*What is set universally...................................................*/
@@ -105,8 +103,5 @@ header h1{
 	background-color: white;
 	display: inline-block;
 	/*margin-left: 33.3%;*/
-}
-#footContain{
-	background-color: white;
 }
 /*What is set universally...................................................*/
