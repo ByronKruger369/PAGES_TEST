@@ -31,7 +31,7 @@
 	footer address{
 		float: left;
 	}
-	footer > section{
+	footer > section > section{
 		float: left;
 	}
 	/*Horizontal Menu.......................................................*/
