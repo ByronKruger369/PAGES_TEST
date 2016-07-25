@@ -96,6 +96,7 @@ h1, address > p, address > h2{/*hi in header and content between address tags*/
 	background-color: white;
 }
 address > p, address > h2{/*hi in header and content between address tags*/
-	clear: both;
+	float: left;
+	clear: left;
 }
 /*What is set universally...................................................*/
