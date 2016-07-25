@@ -84,9 +84,6 @@ header{
 .clearfix{
 	zoom:1;	
 }
-ul{
-	color:linen;
-}
 footer{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
 	padding:30px;
@@ -99,10 +96,10 @@ address > p, address > h2{/*hi in header and content between address tags*/
 	float: left;
 	clear: left;
 }
-ul{
-	color: linen;
-}
 header ul{
 	padding-top: 60px;
+}
+header a{
+	color: linen;
 }
 /*What is set universally...................................................*/
