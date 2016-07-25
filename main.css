@@ -112,4 +112,8 @@ header h1{
 	display: inline-block;
 	/*margin-left: 33.3%;*/
 }
+header a:hover{
+	color: maroon;
+	background-color: linen;
+}
 /*What is set universally...................................................*/
