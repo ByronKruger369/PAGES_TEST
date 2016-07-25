@@ -97,7 +97,7 @@ address > p, address > h2{/*hi in header and content between address tags*/
 	clear: left;
 }
 header ul{
-	padding-top: 60px;
+	padding-top: 30px;
 }
 header a{
 	color: linen;
