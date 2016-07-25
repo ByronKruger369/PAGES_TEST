@@ -67,6 +67,7 @@ body{
 	background: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-1.jpg") 600px 10px no-repeat,  
    				url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-2.jpg") 10px 10px no-repeat,   
    				url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-3.jpg");
+	text-align: justify;
 }
 header{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
@@ -89,18 +90,5 @@ footer{
 }
 header a{
 	color: linen;
-}
-article p{
-	text-align: justify;
-}
-header h1{
-	float: left;
-	margin-left: 32%;
-	background-color: white;
-}
-footer address{
-	float: left;
-	margin-left: 32%;
-	background-color: white;
 }
 /*What is set universally...................................................*/
