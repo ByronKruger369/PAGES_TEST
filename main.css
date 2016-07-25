@@ -94,4 +94,10 @@ footer{
 header a{
 	color: linen;
 }
+header h1{
+	background-color: white;
+}
+footer address{
+	background-color: white;
+}
 /*What is set universally...................................................*/
