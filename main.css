@@ -93,5 +93,6 @@ footer{
 }
 h1, address > p, address > h2{/*hi in header and content between address tags*/
 	background-color: white;
+	display: inline;
 }
 /*What is set universally...................................................*/
