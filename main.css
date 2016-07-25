@@ -102,7 +102,7 @@ address > p, address > h2{/*hi in header and content between address tags*/
 ul{
 	color: linen;
 }
-header h1{
-	padding-bottom: 60px;
+header ul{
+	padding-top: 60px;
 }
 /*What is set universally...................................................*/
