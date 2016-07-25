@@ -58,7 +58,7 @@
 /*What is set universally...................................................*/
 article{
 	background-color: white;
-	opacity: 0.6;	
+	opacity: 0.5;	
 }
 .active{
 	background-color: #993333;
@@ -71,7 +71,7 @@ body{
 }
 header{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
-	padding:30px ;
+	padding:10px;
 }
 .clearfix:before,
 .clearfix:after{
@@ -88,9 +88,8 @@ footer{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
 	padding:30px;
 }
-h1, address > p, address > h2{/*hi in header and content between address tags*/
+address > p, address > h2{/*hi in header and content between address tags*/
 	display: inline;
-	background-color: linen;
 }
 address > p, address > h2{/*hi in header and content between address tags*/
 	float: left;
@@ -101,6 +100,9 @@ header ul{
 }
 header a{
 	color: linen;
+}
+header h1{
+	margin-left: ;
 }
 #footContain{
 	background-color: linen;
