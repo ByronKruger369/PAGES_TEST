@@ -75,6 +75,7 @@ article p{
 header{
 	background-image: url("/Polygraph Clarification and Professional Services and Associates/Polygraph/Polygraph-19.jpg");
 	padding:10px;
+	text-align: center;
 }
 .clearfix:before,
 .clearfix:after{
@@ -97,7 +98,7 @@ header a{
 header h1{
 	background-color: white;
 	display: inline-block;
-	margin-left: 33.3%;
+	/*margin-left: 33.3%;*/
 }
 footer address{
 	display: inline-block;
