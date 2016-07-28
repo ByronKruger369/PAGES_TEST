@@ -118,6 +118,6 @@ li a:hover:not(.active){
 }
 
 article{ /*Add font to main content will choose another for header*/
-	font-family: Times New Roman, Courier, Rockwell;
+	font-family: "Courier New", "Times New Roman", Rockwell;
 }
 /*What is set universally...................................................*/
